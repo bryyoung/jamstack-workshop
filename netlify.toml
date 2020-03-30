@@ -1,5 +1,5 @@
 [build]
-  publish = "dist/base-project"
+  publish = "dist/static"
   command = "npm run jam-prod"
 [[redirects]]
   from="/*"
